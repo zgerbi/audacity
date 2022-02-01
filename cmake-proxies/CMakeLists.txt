@@ -107,6 +107,13 @@ add_conan_lib(
 )
 
 add_conan_lib(
+   Wavpack
+   wavpack/5.4.0
+   OPTION_NAME libWavPack
+   ALLOW_FIND_PACKAGE
+)
+
+add_conan_lib(
    Ogg
    ogg/1.3.4
    OPTION_NAME libogg
