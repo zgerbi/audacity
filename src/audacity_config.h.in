@@ -63,7 +63,6 @@
 /* Define if mp3 support is implemented with the libmad library */
 #cmakedefine USE_LIBMAD 1
 
-
 /* Define if wavpack support is implemented with the wavpack library */
 #cmakedefine USE_WAVPACK 1
 
